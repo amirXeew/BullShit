@@ -2,8 +2,6 @@
 ### This is a tool that can create a lot of spotify account for you .
 ## Guide
 
-## Features
-
 
 
 
