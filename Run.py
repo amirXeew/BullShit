@@ -102,7 +102,7 @@ if Option == "1" :
     def Email():
         return '%s@%s' % (''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(random.randint(7, 10))), random.choice(addEmails))
     def Password():
-        return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(random.randint(8, 17)))
+        return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(random.randint(8, 12)))
     def Username():
         return ran_char(12)+"AmirXeew"
     def Day():
