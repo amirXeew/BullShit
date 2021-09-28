@@ -42,4 +42,4 @@
 ## Features
 - [x] you Can Run the tool ;)
 - [x] you can close the tool "/
-- [x] also yo can create a lot of shit(Spotify Account)  
+- [x] also you can create a lot of shit(Spotify Account)  
