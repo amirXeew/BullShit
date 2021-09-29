@@ -36,5 +36,5 @@
 </pre>
 ## Features
 - [x] you Can Run the tool ;)
-- [x] you can close the tool "/
-- [x] also you can create a lot of shit(Spotify Account)  
+- [x] you can stop the tool "/
+- [x] also you can create a lot of shit . i mean Spotify Account  
