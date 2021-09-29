@@ -1,7 +1,7 @@
 # BullShit
 ### This is a tool that can create a lot of spotify account for you .
 ## Guide
-### First Second 
+### First and Second 
 > 1st: pip3 install -r requirements.txt
  
 > 2nd: Need proxy List 
