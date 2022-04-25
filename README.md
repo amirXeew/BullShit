@@ -37,4 +37,4 @@
 ## Features
 - [x] you Can Run the tool ;)
 - [x] you can stop the tool "/
-- [x] also you can create a lot of shit . i mean Spotify Account  
+- [x] you can also create lots of shit . i mean Spotify Account  
